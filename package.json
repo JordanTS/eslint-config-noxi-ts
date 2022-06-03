@@ -1,0 +1,28 @@
+{
+  "name": "eslint-config-noxi-ts",
+  "version": "1.0.0",
+  "description": "Eslint config with typescript for my projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JordanTS/eslint-config-noxi-ts.git"
+  },
+  "author": {
+    "name": "Jordan S. (Noxi)",
+    "email": "contact@noxi.pro",
+    "url": "https://github.com/JordanTS"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JordanTS/eslint-config-noxi-ts/issues"
+  },
+  "homepage": "https://github.com/JordanTS/eslint-config-noxi-ts#readme",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.27.0",
+    "@typescript-eslint/parser": "^5.27.0",
+    "eslint": "^8.16.0"
+  }
+}
